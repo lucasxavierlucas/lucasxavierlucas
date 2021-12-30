@@ -1,10 +1,10 @@
 # Hi, I'm Lucas Xavier 
 I am a 25 years old Q.A Tester, Java Student, and Omar's father. 
-- 🚀 Q.A Tester II & CTFL certified focused on helping people start to test
+- 🚀 Q.A Tester II & CTFL certified, focused on helping people start to test
 
 - 🔭 I’m currently working as Functional Test Analyst at [Cognizant](https://www.cognizant.com/us/en)
 - 🗺️ Brazil, São Paulo
--  <a href="https://www.linkedin.com/in/lucasxavierlucas/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"></a>  Feel free to reach me if you want!  
+-  <a href="https://www.linkedin.com/in/lucasxavierlucas/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"></a>  Let's stay in touch!  
  
 
 # Skills
