@@ -1,4 +1,5 @@
-# <h1 align="center"> Hi, I'm Lucas Xavier </k1><h3 align="center">I am a 25 years old Q.A Tester, Java Student, and Omar's father. <h3>
+# <h1 align="center">[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%2335B0FF&size=30&lines=Hi%2C+I'm+Lucas+Xavier;Ol%C3%A1%2C+Sou+Lucas+Xavier;I'm+a+glitch+hunter;Sou+um+Ca%C3%A7a+Bugs)](https://git.io/typing-svg)
+ <h3 align="center">I am a 25 years old Q.A Tester, Java Student, and Omar's father. <h3>
  
 - 🚀 Q.A Tester II & CTFL certified, focused on helping people start to test
  <img align = "right" src="https://github.com/lucasxavierlucas/lucasxavierlucas/blob/main/9bd8aea7-81fc-4887-b4f2-9535d971b178.png" width="300" height="300">
