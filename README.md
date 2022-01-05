@@ -1,11 +1,12 @@
 # <h1 align="center"> Hi, I'm Lucas Xavier </k1><h3 align="center">I am a 25 years old Q.A Tester, Java Student, and Omar's father. <h3>
  
 - 🚀 Q.A Tester II & CTFL certified, focused on helping people start to test
+ <img align = "right" src="https://github.com/lucasxavierlucas/lucasxavierlucas/blob/main/9bd8aea7-81fc-4887-b4f2-9535d971b178.png" width="300" height="300">
 
 - 🔭 I’m currently working as Functional Test Analyst at [Cognizant](https://www.cognizant.com/us/en)
 - 🗺️ Brazil, São Paulo
 -  <a href="https://www.linkedin.com/in/lucasxavierlucas/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"></a>  Let's stay in touch!  
- 
+           
 
 # Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="30" height="30">![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
