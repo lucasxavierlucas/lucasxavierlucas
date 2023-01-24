@@ -1,5 +1,5 @@
 # <h1 align="center">[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%2335B0FF&size=30&lines=Hi%2C+I'm+Lucas+Xavier;Ol%C3%A1%2C+Sou+Lucas+Xavier;I'm+a+glitch+hunter;Sou+um+Ca%C3%A7a+Bugs)](https://git.io/typing-svg)
- <h3 align="center">I am a 25 years old Q.A Tester, Automation student, and Omar's father. <h3>
+ <h3 align="center">I am a 26 years old Q.A Tester, Automation student, and Omar's father. <h3>
  
 - 🚀 Q.A Tester II & CTFL certified
 - 🔭 I’m currently working as a Tester at [Nursa]([https://www.cognizant.com/us/en](https://nursa.com/))
