@@ -2,7 +2,7 @@
  <h3 align="center">I am a 27 years old Q.A Tester, Automation student, and Omar's father. <h3>
  
 - 🚀 Q.A Tester II & CTFL certified
-- 🔭 I’m currently working as a Tester at [Nursa]([https://www.cognizant.com/us/en](https://nursa.com/))
+- 🔭 I’m currently working as a Manual Tester at [Nursa]([https://www.cognizant.com/us/en](https://nursa.com/))
 - 🗺️ Brazil, São Paulo
 -  <a href="https://www.linkedin.com/in/lucasxavierlucas/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"></a>  Let's stay in touch!  
            
