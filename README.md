@@ -6,9 +6,6 @@
 - 🗺️ Brazil, São Paulo
 -  <a href="https://www.linkedin.com/in/lucasxavierlucas/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"></a>  Let's stay in touch!  
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasxavierlucas&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 # Skills
