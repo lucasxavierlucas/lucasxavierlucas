@@ -1,7 +1,7 @@
 # <h1 align="center">[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%2335B0FF&size=30&lines=Hi%2C+I'm+Lucas+Xavier;I'm+a+glitch+hunter)](https://git.io/typing-svg)
- <h3 align="center">I am a 28 years old Q.A Tester, Automation student, and Omar's father. <h3>
+ <h3 align="center">I am a 28 years old QA Automation Engineer, Automation student, and Omar's father. <h3>
  
-- 🚀 Q.A Tester & CTFL certified
+- 🚀 QA Automation Engineer & CTFL certified
 - 🔭 I’m currently working as a Q.A Engineer at [Nursa]([https://www.cognizant.com/us/en](https://nursa.com/))
 - 🗺️ Brazil, São Paulo
 -  <a href="https://www.linkedin.com/in/lucasxavierlucas/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"></a>  Let's stay in touch!  
