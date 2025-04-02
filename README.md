@@ -1,7 +1,7 @@
 I am a 28 years old Q.A Automation Engineer
  
 - 🚀 QA Automation Engineer & ISTQB - CTFL + CTAL certified
-- 🔭 I’m currently working as a SDET at [IQVIA](https://www.iqvia.com/)
+- 🔭 I’m currently working as a SDET 
 - 🗺️ Brazil, São Paulo
 -  <a href="https://www.linkedin.com/in/lucasxavierlucas/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"></a>  Let's stay in touch!  
     
