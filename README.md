@@ -13,3 +13,4 @@ Technical Skills:
 • API Testing: Postman, Robot Framework
 • CI/CD & DevOps: GitHub Actions, Jenkins
 • Quality Practices: BDD, test strategy definition, scalable and maintainable frameworks
+
